@@ -217,7 +217,7 @@ export default function Root() {
       </div>
 
       <div className=" w-[100%] h-[50px] text-center md:px-6 ">
-        &copy; {new Date().getFullYear()} - Made by ❤️ by{" "}
+        &copy; {new Date().getFullYear()} - Made with ❤️ by{" "}
         <a
           className=" dark:text-blue-300 leading-6 underline hover:text-blue-400 duration-100"
           target="_blank"
